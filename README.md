@@ -1,7 +1,8 @@
-<p><strong>Разработка мобильных приложений&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сергей Михайлович</strong></p>
-<p>&nbsp;</p>
-<p><strong><u>Лекция 08.09.25</u></strong></p>
-<p><strong><u>Введение в разработку </u></strong><strong><u>Android приложений</u></strong><em><u><br /> </u></em><br /> История Android</p>
+<p><strong>Разработка мобильных приложений | 3 курс 5 семестр | Сергей Михайлович</strong></p>
+<br>
+<h2><strong><u>Лекция 08.09.25
+<br>
+Введение в разработку Android приложений. История Android.</u></strong></h2>
 <p>Android &ndash; открытая ОС для мобильных телефонов, смартфонов, коммуникаторов, планшетных компьютеров, электронных книг, цифровых проигрывателей, наручных часов, смарт буков.</p>
 <p>Android основан на ядре Linux.</p>
 <p>Изначально ОС Android разрабатывалась компанией Android. В июле 2005г из поглощает компания Google. В ноябре 2007г Google инициирует создание бизнес-альянса Oha, в состав которого вошли HTC, Intel, Motorola, Nvidia и Samsung, которые начали дорабатывать и поддерживать Android.</p>
